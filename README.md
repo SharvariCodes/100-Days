@@ -42,12 +42,12 @@ The journey is divided into several phases:
 - Feature Engineering
 - Class Imbalance
 - Train/Test Split & Pipelines
-- Regression
-- Classification
-- Model Evaluation
-- Hyperparameter Tuning
-- Explainability
-- Unsupervised Learning
+- Linear Regression
+- Logistic Regression
+- k-Nearest Neighbours
+- Support Vector Machine
+- Naive Bayes
+- Decision Tree
 - PCA
 - ML Mini Project
 
